@@ -1,0 +1,120 @@
+calling you - Guitar TAB
+key: C# minor, easy (without stretch)
+no-Capo Jeff Buckley style
+(see http://tabs.ultimate-guitar.com/)
+
+
+<A> (verse) nearly "Das Boot" chord progression!
+
+ 1 2 3 4 5 6 7
+o | | | | | | | E　   "A desert road from"    (1)
+| | | | | | | | x     "A coffee machine that"
+|o|o| | | | | | G#->A
+| | | | | | | | x     "A hot dry wind blows"  (2)
+| | | |o| | | | C#    "We all know a"
+| | | | | | | | x
+
+
+ 1 2 3 4 5 6 7
+o | | | | | | | E　    "Vegas to nowhere"     (1)
+| | | | | | | | x      "needs some fixing"
+|o|o| | | | | | G#->A
+o | | | | | | | D      "right through me"     (2)
+| | | | | | | | x      "change is coming"
+| | | | | | | | x
+
+
+ 1 2 3 4 5 6 7
+o | | | | | | | E　    "Some place better than" (1)
+| | | | | | | | x      "In a little cafe just"
+|o|o| | | | | | G#->A
+| | | | | | | |        "A baby is crying and"  (2)
+| | | | | | | | x      "Coming closer"
+| |o| | | | | | F#
+
+
+ 1 2 3 4 5 6 7
+o | | | | | | | E　    "where you've been"     (1)
+| | | | | | | | x      "around the bend"
+|o|o| | | | | | G#->A
+| | | | | | | | x      "I can't sleep"  (2)
+| |o| | | | | | B      "sweet release"
+| | | | | | | | x
+
+
+
+<B> (chorus & intro)
+
+ 1 2 3 4 5 6 7
+| | | | | |o| | Bb  "I"  【Ebm5 /F#】
+| | | |o| | | | Eb
+| | | | |o| | | C
+| | | |o| | | | F#
+| | | | | | | | x
+| | | | | | | | x
+
+
+ 1 2 3 4 5 6 7
+| | | | |o| | | A    "am" 【F7 /Eb】
+| | | | | |o| | F
+| | | | |o| | | C
+| | | | | | | | x
+| | | | | |o| | Eb
+| | | | | | | | x
+
+
+ 1 2 3 4 5 6 7
+| | | |o|>|o| | Ab->C  "calling" 【Dm7 -5】
+| | | | | |o| | F
+| | | | |o| | | C
+o | | | | | | | open D
+| | | | | | | | x or use 5th flet
+| | | | | | | | x
+
+
+ 1 2 3 4 5 6 7
+| | |o| | | | | G  "you"【G7】 "can't you hear me" 
+| | | | | |o| | F
+| | | |o| | | | B
+| | | | | | | | x
+| | | | | | | | x
+| | |o| | | | | G
+
+
+ 1 2 3 4 5 6 7 8 9
+| | | | | |o| | | | Bb  "I"  【Em7 -5】
+| | | | | | | |o| | G
+| | | | | | |o| | | D
+| | | | | | | | | | x
+| | | | | | |o| | | E
+| | | | | | | | | | x or use open E
+
+
+ 1 2 3 4 5 6 7 8 9
+| | | | |o| | | | | A    "am" 【A +5】
+| | | | | |o| | | | F
+| | | | | |o| | | | C#
+| | | | | | |o| | | A
+| | | | | | | | | | x or use Open A
+| | | | | | | | | | x
+
+
+ 1 2 3 4 5 6 7 8 9
+| | | |o|>|o| | | | Ab->C "calling" 【Dm7 -5】
+| | | | | |o| | | | F
+| | | | |o| | | | | C
+o | | | | | | | | | use open D
+| | | | | | | | | | x or use 5th flet
+| | | | | | | | | | x
+
+
+ 1 2 3 4 5 6 7 8 9
+| | |o| | | | | | | G  "you"【G7】
+| | | | | |o| | | | F
+| | | |o| | | | | | B
+| | | | | | | | | | x
+| | | | | | | | | | x
+| | |o| | | | | | | G
+
+
+
